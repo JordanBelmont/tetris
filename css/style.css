@@ -1,5 +1,5 @@
 * {
-   font-family: 'Press Start 2P', cursive;
+   font-family: '8-bit', cursive;
 }
 
 .grid {
@@ -22,4 +22,10 @@
    font-size: 16px;
    padding: 15px 30px;
    cursor: pointer;
+}
+
+@font-face {
+   font-family: '8-bit';
+   font-weight: normal;
+   src: url('../fonts/8-bit-pusab.ttf') format('truetype')
 }
